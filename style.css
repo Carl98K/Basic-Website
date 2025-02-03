@@ -107,7 +107,6 @@ header p:nth-child(2)
 #section-three h2, #section-three p{
     margin: 0;
     color: white;
-    margin: 0;
 }
 
 #section-three h2{
@@ -124,19 +123,19 @@ header p:nth-child(2)
 #section-three #contact{
     background-color: #004edf;
     display: inline-block;
-    width: 600px;
+    width: 30%;
     height: 400px;
     padding-left: 175px;
-    padding-right: 175px;
+    padding-right: 204px;
 }
 
 #section-three #about{
     background-color: #8500bf;
     display: inline-block;
-    width: 600px;
+    width: 30%;
     height: 400px;
     padding-left: 175px;
-    padding-right: 177px;
+    padding-right: 204.5px;
     margin-left: -4px;
 }
 
